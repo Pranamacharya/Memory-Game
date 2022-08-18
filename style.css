@@ -1,0 +1,15 @@
+
+
+.grid{
+    flex-wrap:wrap;
+    display:flex;
+    height:300px;
+    width:350px;
+    margin-top: 10%;
+    margin-left: 35%;
+}
+
+h3{
+    margin-left: 42%;
+    margin-top: 5%;
+}
